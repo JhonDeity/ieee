@@ -1,8 +1,16 @@
-# React + Vite
+# HomePage IEEE
+Haciendo uso de Vite con SWC, React, Tailwindcss, Javascript y Typescript.
+Idea de Jhon.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/8a82a614-5ec0-4e39-b682-5ee3b79ae86c)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## **PROGRESO 👷‍♂️🚧**
+
+- [X] Mockup
+- [X] Title
+- [ ] Roadmap
+- [ ] About
+- [ ] Rutas
+- [ ] Animaciones
